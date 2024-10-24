@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Red
+yellow
 Indigo
 Recycle!
 Unicorn
